@@ -36,12 +36,6 @@ Places around the museum:
 | Goa      | Beaches  | 200min |
 
 
-1) Use a horizontal line and a heading for a new section.
-2) In this section you will provide at least 2 quotes that you like.
-3) Blockquote each quote.
-4) Include the author of the quote in italics.
-5) Commit and Push.
-6) Screen shot 7 on GitHub showing the quote section.
 
 ---
 ### Quoted Statements
@@ -49,8 +43,6 @@ Places around the museum:
 `> the first qute i liked `
 
 `>> the second quote i liked.`
-
-
 
 
 
