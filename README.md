@@ -46,6 +46,25 @@ Places around the museum:
 
 
 
+---
+### Code fencing
+
+[QuestionOnline](https://meta.stackoverflow.com/questions/314122/is-there-a-way-to-put-code-blocks-in-block-quotes)
+```
+<form method="post" action="upload.php" enctype="multipart/form-data">
+  <input name='uploads[]' type="file" multiple>
+  <input type="submit" value="Send">
+</form>
+```
+[SnippetSource](https://css-tricks.com/snippets/html/multiple-file-input/)
+
+
+
+
+
+
+
+
 
 
 **[page](AboutME.md)** 
