@@ -7,7 +7,7 @@ THis is one of the best museum in the country which consists of **ancestral belo
 
 
 ---
-***Steps to reach nearby airport
+### Steps to reach nearby airport
 
 Rajiv Gandhi international Airport
 
@@ -23,6 +23,19 @@ Places around the museum:
 * Secratariat
 * Gokul chat
 * Charminar
+
+
+---
+### Favourite places to visit in different cities
+
+| City     | Place    | Time   |
+| --- | --- | ---: |
+| Mysore   | palace   | 60min  |
+| Mumbai   | colaba   | 120min |
+| Hyderbad | charminar| 60min  |
+| Goa      | Beaches  | 200min |
+
+
 
 
 
